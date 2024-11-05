@@ -1,0 +1,9 @@
+# NAME: 诸葛自用baiduint
+# UPDATED: 2024-11-05
+
+# 百度系软件
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidu-int.com
+DOMAIN-SUFFIX,bilibili.com  # 注意：bilibili非百度系，但常用
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,pan.baidu.com
